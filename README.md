@@ -7,7 +7,7 @@ Here’s a professional and creative GitHub profile README tailored for you:
 
 ### About Me  
 🚀 Passionate about creating seamless digital experiences through code, design, and strategy. I specialize in:  
-- **Full Stack Development**: React, TypeScript, Node.js  
+- **Frontend Development**: React, TypeScript.
 - **UI/UX Design**: Crafting user-centered interfaces  
 - **SEO & Digital Marketing**: Helping businesses grow online  
 
@@ -35,8 +35,6 @@ Here’s a professional and creative GitHub profile README tailored for you:
 - ✉️ Email: yeswaadams73@gmail.com 
 
 --- 
-
-Feel free to personalize this further! 😊
 
 <!---
 yeswadams/yeswadams is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
