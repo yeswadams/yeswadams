@@ -22,10 +22,11 @@ I’ve learned that the journey is as important as the destination. Each failure
 # Tools, Technologies & Tidbits 🔧
 Here are some of the tools and technologies that have become part of my daily routine:
 ``` bash
-- **Languages**: Javascript, Typescript, Python, Rust, Cairo.
-- **Frameworks & Libraries**: React, Node.js, Django, Next.js
-- **Tools**: Git, Docker, Linux
-- **Interests**: Web3.0, Machine Learning, IOT
+
+- Languages: Javascript, Typescript, Python, Rust, Cairo.
+- Frameworks & Libraries: React, Node.js, Django, Next.js
+- Tools: Git, Docker, Linux
+- Interests: Web3.0, Machine Learning, IOT
 
 ```
 
