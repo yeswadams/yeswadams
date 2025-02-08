@@ -22,10 +22,28 @@ I’ve learned that the journey is as important as the destination. Each failure
 # Tools, Technologies & Tidbits 🔧
 Here are some of the tools and technologies that have become part of my daily routine:
 
-Languages: Javascript, Typescript, Python, Rust and Cairo
-Frameworks & Libraries: React, Node.js, Django, Next.js
-Tools: Git, Docker, VSCode, Linux
-Interests: Web3.0 AI/ML, data visualization, and exploring the unknown corners of tech
+- **Languages**: 
+  - Javascript
+  - Typescript
+  - Python
+  - Rust
+  - Cairo
+- **Frameworks & Libraries**:
+  - React
+  - Node.js
+  - Django
+  - Next.js
+- **Tools**:
+  - Git
+  - Docker
+  - VSCode
+  - Linux
+- **Interests**:
+  - Web3.0
+  - AI/ML
+  - Data visualization
+  - Exploring the unknown corners of tech
+
 # Projects That Tell My Story 📚
 Every repository here is more than just code—it’s a milestone. Some highlights include:
 
