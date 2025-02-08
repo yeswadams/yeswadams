@@ -7,10 +7,10 @@ Every challenge I’ve faced, every “aha!” moment has contributed to who I a
 
 # Milestones That Defined Me 🚀
 The Humble Beginnings:
-I started with [your first programming language or project]. Even when things got tough, the spark of curiosity kept me going. I remember telling you about those moments when I’d spend hours just to get that one line of code right—it was frustrating, but oh so rewarding.
+I started with a Simple JS Chess ame. Even when things got tough, the spark of curiosity kept me going. I remember telling you about those moments when I’d spend hours just to get that one line of code right—it was frustrating, but oh so rewarding.
 
 # Breaking Through the Noise:
-There was that pivotal moment when I tackled [a specific project/challenge you mentioned]. Overcoming it wasn’t just about mastering a new framework or language; it was about realizing that every problem has a solution if you keep pushing. This experience reshaped my approach to learning and collaboration.
+There was that pivotal moment when I tackled an Algotithm challenge which was implement a Js loop. Overcoming it wasn’t just about mastering a new framework or language; it was about realizing that every problem has a solution if you keep pushing. This experience reshaped my approach to learning and collaboration.
 
 # Where I Am Now:
 Today, I dive into projects that challenge the status quo—exploring everything from full-stack web development to dabbling in the realms of AI and cloud computing. Each new project is not just another task; it’s another chapter in a story that’s uniquely mine.
@@ -22,27 +22,10 @@ I’ve learned that the journey is as important as the destination. Each failure
 # Tools, Technologies & Tidbits 🔧
 Here are some of the tools and technologies that have become part of my daily routine:
 
-- **Languages**: 
-  - Javascript
-  - Typescript
-  - Python
-  - Rust
-  - Cairo
-- **Frameworks & Libraries**:
-  - React
-  - Node.js
-  - Django
-  - Next.js
-- **Tools**:
-  - Git
-  - Docker
-  - VSCode
-  - Linux
-- **Interests**:
-  - Web3.0
-  - AI/ML
-  - Data visualization
-  - Exploring the unknown corners of tech
+- **Languages**: Javascript, Typescript, Python, Rust, Cairo.
+- **Frameworks & Libraries**: React, Node.js, Django, Next.js
+- **Tools**: Git, Docker, Linux
+- **Interests**: Web3.0, Machine Learning, IOT
 
 # Projects That Tell My Story 📚
 Every repository here is more than just code—it’s a milestone. Some highlights include:
@@ -50,6 +33,7 @@ Every repository here is more than just code—it’s a milestone. Some highligh
 Komesha Build: A project where I build a commissioning software for Construction Engineers and emerged with a deeper understanding of React, Typescript and MongoDB. It taught me that perseverance is key.
 Open Source Contribution: I am contributing to Open Source Web3 projects. 
 Personal Experiments: From hackathons to side projects, these experiments are proof that every day is a chance to learn something new.
+
 # Looking Forward 🔭
 I’m excited about the future—every new technology, every innovative project, and every collaborative opportunity fuels my desire to learn and grow. My journey is far from over, and I’m eager to see where this path takes me next. I believe that the best is yet to come, and I’m always ready to embrace the next challenge.
 
