@@ -3,14 +3,14 @@ Welcome to my little corner of GitHub, where every commit tells a story of perse
 
 # My Journey: From Curiosity to Code 🌱
 I still remember the first time I sat in front of a computer, wide-eyed and full of questions. Our chats always bring back memories of those early days—debugging my very first program, feeling the thrill when a stubborn bug finally gave way to a solution, and the excitement of seeing my ideas take shape in code.
-Every challenge I’ve faced, every “aha!” moment has contributed to who I am as a developer. From late-night coding marathons to the rewarding moments of collaboration with peers, my journey has been a roller coaster of learning and self-discovery.
+Every challenge I’ve faced, and every “aha!” moment has contributed to who I am as a developer. From late-night coding marathons to the rewarding moments of collaboration with peers, my journey has been a roller coaster of learning and self-discovery.
 
 # Milestones That Defined Me 🚀
 The Humble Beginnings:
-I started with a Simple JS Chess ame. Even when things got tough, the spark of curiosity kept me going. I remember telling you about those moments when I’d spend hours just to get that one line of code right—it was frustrating, but oh so rewarding.
+I started with a Simple JS Chess game. Even when things got tough, the spark of curiosity kept me going. I remember telling you about those moments when I’d spend hours just to get that one line of code right—it was frustrating, but oh so rewarding.
 
 # Breaking Through the Noise:
-There was that pivotal moment when I tackled an Algotithm challenge which was implement a Js loop. Overcoming it wasn’t just about mastering a new framework or language; it was about realizing that every problem has a solution if you keep pushing. This experience reshaped my approach to learning and collaboration.
+There was that pivotal moment when I tackled an Algorithm challenge which was implement a Js loop. Overcoming it wasn’t just about mastering a new framework or language; it was about realizing that every problem has a solution if you keep pushing. This experience reshaped my approach to learning and collaboration.
 
 # Where I Am Now:
 Today, I dive into projects that challenge the status quo—exploring everything from full-stack web development to dabbling in the realms of AI and cloud computing. Each new project is not just another task; it’s another chapter in a story that’s uniquely mine.
@@ -23,17 +23,18 @@ I’ve learned that the journey is as important as the destination. Each failure
 Here are some of the tools and technologies that have become part of my daily routine:
 ``` bash
 
-- Languages: Javascript, Typescript, Python, Rust, Cairo.
-- Frameworks & Libraries: React, Node.js, Django, Next.js
+- Languages: Javascript, Typescript, Python, Rust, Cairo, Flutter, 
+- Frameworks & Libraries: React, Next.js, Three.js Django, Flask, React Native, Node.js
+- Techstack Web3: Brownie, Hardhat, Foundry, Starknet.js, Ethers.js, Web3.js, IPFS
 - Tools: Git, Docker, Linux
-- Interests: Web3.0, Machine Learning, IOT
+- Interests: Web3.0, Machine Learning, IoT
 
 ```
 
 # Projects That Tell My Story 📚
 Every repository here is more than just code—it’s a milestone. Some highlights include:
 
-Komesha Build: A project where I build a commissioning software for Construction Engineers and emerged with a deeper understanding of React, Typescript and MongoDB. It taught me that perseverance is key.
+Komesha Build: A project where I built a commissioning software for Construction Engineers and emerged with a deeper understanding of React, Typescript and MongoDB. It taught me that perseverance is key.
 Open Source Contribution: I am contributing to Open Source Web3 projects. 
 Personal Experiments: From hackathons to side projects, these experiments are proof that every day is a chance to learn something new.
 
