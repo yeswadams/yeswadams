@@ -9,11 +9,11 @@ I’ve learned that the journey is as important as the destination. Each failure
 Here are some of the tools and technologies that have become part of my daily routine:
 ``` bash
 
-- Languages: Javascript, Typescript, Python, Rust, Cairo, Flutter, 
+- Languages: Javascript, Typescript, Python, Rust, Cairo, Flutter.
 - Frameworks & Libraries: React, Next.js, Three.js Django, Flask, React Native, Node.js
-- Techstack Web3: Brownie, Hardhat, Foundry, Starknet.js, Ethers.js, Web3.js, IPFS
+- Techstack Web3: Solidity, Starknet.js, Ethers.js, Web3.js, IPFS
 - Tools: Git, Docker, Linux
-- Interests: Web3.0, Machine Learning, IoT
+- Interests: DeFi, Machine Learning, IoT
 
 ```
 
@@ -30,8 +30,8 @@ I’m excited about the future—every new technology, every innovative project,
 # Let’s Connect 🤝
 I’d love to hear from fellow tech enthusiasts, collaborate on exciting projects, or simply chat about the latest in tech. Here’s how you can reach me:
 
-Email: yeswaadams73@gmail.com
-Twitter: @yeswadams
+Email: yeswaadams73@gmail.com <br>
+Twitter: [@yeswadams]([url](https://x.com/yeswadam))
 
-Thanks for stopping by and taking the time to get to know my story. Every commit, every project, every interaction here is a testament to a journey filled with passion, persistence, and an unyielding love for technology. Let’s keep pushing boundaries and making cool things happen—one line of code at a time!
+Thanks for stopping by. Every commit, every project, every interaction here is a piece of journey in my Software DEvelopment Career. Let’s keep pushing boundaries and making cool things happen—one line of code at a time!
 
