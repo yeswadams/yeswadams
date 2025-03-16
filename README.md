@@ -16,8 +16,8 @@ What get me cracking my knuckles:
 # Looking Forward 🔭
 All is going to be amaizing, just like Lil Wayne once said... "Let it all workout"
 
-# Let’s Connect 🤝
-I’d love to hear from fellow tech enthusiasts, collaborate on exciting projects, or simply chat about the latest things in tech. Here’s how you can reach me:
+# Let’s Connect 
+I dont bite, and being an extrovert I love meeting new people, just to talk about what they like. For me I love ME!!😂
 
 Email: yeswaadams73@gmail.com <br>
 Twitter: [@yeswadams]([url](https://x.com/yeswadam))
