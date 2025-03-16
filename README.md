@@ -6,9 +6,9 @@ Here are some of the tools and technologies that have become part of my daily ro
 ``` bash
 
 - Languages: Javascript, Typescript, Rust, Flutter.
-- Frameworks & Libraries: React, Next.js, Three.js, React Native, Node.js.
-- Techstack Web3: Solidity, Cairo, Starknet.js, Ethers.js, 
-- Tools: Git, Docker, Linux
+- Frameworks & Libraries: React, Next.js, Node.js.
+- Techstack Web3: Solidity, Starknet.js, Ethers.js, 
+- Tools: Git, Docker, Linux, AWS
 - Interests: DeFi, Machine Learning, IoT
 
 ```
