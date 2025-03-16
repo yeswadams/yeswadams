@@ -9,9 +9,9 @@ I’ve learned that the journey is as important as the destination. Each failure
 Here are some of the tools and technologies that have become part of my daily routine:
 ``` bash
 
-- Languages: Javascript, Typescript, Python, Rust, Cairo, Flutter.
+- Languages: Javascript, Typescript, Rust, Flutter.
 - Frameworks & Libraries: React, Next.js, Three.js, React Native, Node.js.
-- Techstack Web3: Solidity, Starknet.js, Ethers.js, Web3.js, IPFS
+- Techstack Web3: Solidity, Cairo, Starknet.js, Ethers.js, 
 - Tools: Git, Docker, Linux
 - Interests: DeFi, Machine Learning, IoT
 
