@@ -2,7 +2,7 @@
 Welcome to my GitHub. I ty to do! I Founded [KomeshaBuild](https://komeshabuild.framer.ai/)
 
 # Tech Stack 🔧
-Here are some of the tools and technologies that have become part of my daily routine:
+What get me cracking my knuckles:
 ``` bash
 
 - Languages: Javascript, Typescript, Rust, Flutter.
@@ -14,7 +14,7 @@ Here are some of the tools and technologies that have become part of my daily ro
 ```
 
 # Looking Forward 🔭
-I’m excited about the future—every new technology, every innovative project, and every collaborative opportunity fuels my desire to learn and grow. My journey is far from over, and I’m eager to see where this path takes me next. I believe that the best is yet to come, and I’m always ready to embrace the next challenge.
+All is going to be amaizing, just like Lil Wayne once said... "Let it all workout"
 
 # Let’s Connect 🤝
 I’d love to hear from fellow tech enthusiasts, collaborate on exciting projects, or simply chat about the latest things in tech. Here’s how you can reach me:
