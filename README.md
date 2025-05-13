@@ -7,7 +7,6 @@ What get me cracking my knuckles:
 
 - Languages: Javascript, Typescript, Rust, Flutter.
 - Frameworks & Libraries: React, Next.js, Node.js.
-- Techstack Web3: Solidity, Starknet.js, Ethers.js, 
 - Tools: Git, Docker, Linux, AWS
 - Interests: DeFi, Machine Learning, IoT
 
