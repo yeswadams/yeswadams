@@ -156,6 +156,6 @@
 ### 📈 GitHub Streak
 
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=yeswadams&theme=dark&hide_border=true)](https://git.io/streak-stats)  
+  [![GitHub Streak](https://streak-stats.demolab.com/?yeswadams=DenverCoder1)](https://git.io/streak-stats)
 
 
