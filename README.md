@@ -155,7 +155,7 @@
 
 ### 📈 GitHub Streak
 
-<p align="left">
+
   [![GitHub Streak](https://streak-stats.demolab.com/?user=yeswadams&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-</p>
+
 
