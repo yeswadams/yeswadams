@@ -153,7 +153,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeswadams&show_icons=true&locale=en" alt="yeswadams" /></p>
 
+### 📈 GitHub Streak
+
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=yeswadams&label=Profile%20views&color=0e75b6&style=flat" alt="yeswadams" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yeswadams&theme=dark" alt="GitHub Streak"/>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=yeswadams&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </p>
+
