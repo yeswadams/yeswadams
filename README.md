@@ -12,10 +12,10 @@
 </p>
 
 - 🔭 I’m currently working on [KomeshaBuild - a Prop tech software](https://komeshabuild.framer.ai)
+- 📄 Know about my experiences [yeswadams.framer.wiki](https://yeswadams.framer.wiki)
 - 🌱 I’m currently learning **Solidity, Rust and Ruby**
 - 💬 Ask me about **React, Next.js, Svelte**
 - 📫 How to reach me **yeswaadams73@gmail.com**
-- 📄 Know about my experiences [yeswadams.framer.wiki](https://yeswadams.framer.wiki)
 - ⚡ Fun fact **I think Web3 is what is going to help us transform our African economy for the better**
 
 <h2 align="left">Connect with me:</h2>
@@ -153,16 +153,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeswadams&show_icons=true&locale=en" alt="yeswadams" /></p>
 
-<!-- ============================== -->
-<!-- New Section: Currently Listening on Spotify -->
-<h2 align="left">🎧 Currently Listening</h2>
 <p align="left">
-  <!-- Quick badge-based approach -->
-  <!-- Replace USERNAME with your Spotify user ID (found in Spotify account settings/profile) -->
-  [![Spotify Now Playing](https://spotify-github-readme.vercel.app/api/spotify?uid=yeswa&theme=dark)](https://open.spotify.com/user/31s2yaepxogm7t62scqk2ne2ts3e?si=729fbccaf6e14b65)
+  <img src="https://komarev.com/ghpvc/?username=yeswadams&label=Profile%20views&color=0e75b6&style=flat" alt="yeswadams" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=yeswadams&theme=dark" alt="GitHub Streak"/>
 </p>
-
-> **How this works (badge-based):**  
-> This badge (“Spotify Now Playing”) uses a third-party service that fetches your current Spotify track (or most recently played if idle) and renders it as an image, which GitHub displays in your README on each refresh. This is the easiest way to show your “currently listening” status without running your own server or workflow :contentReference[oaicite:0]{index=0}.
-
-
