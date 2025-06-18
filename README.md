@@ -159,7 +159,7 @@
 <p align="left">
   <!-- Quick badge-based approach -->
   <!-- Replace USERNAME with your Spotify user ID (found in Spotify account settings/profile) -->
-  [![Spotify Now Playing](https://spotify-github-readme.vercel.app/api/spotify?uid=YOUR_SPOTIFY_USERNAME&theme=dark)](https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME)
+  [![Spotify Now Playing](https://spotify-github-readme.vercel.app/api/spotify?uid=yeswa&theme=dark)](https://open.spotify.com/user/31s2yaepxogm7t62scqk2ne2ts3e?si=729fbccaf6e14b65)
 </p>
 
 > **How this works (badge-based):**  
