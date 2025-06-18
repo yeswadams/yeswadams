@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">A passionate frontend developer from Nairobi, Kenya</h3>
+<h3 align="left">A passionate frontend developer from Nairobi, Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeswadams&label=Profile%20views&color=0e75b6&style=flat" alt="yeswadams" /> </p>
 
@@ -8,12 +8,6 @@
 - 🔭 I’m currently working on [KomeshaBuild- a Prop tech software](komeshabuild.framer.ai)
 
 - 🌱 I’m currently learning **Solidity, Rust and Ruby**
-
-- 👯 I’m looking to collaborate on [Web3 projects in tele-health products](github.com)
-
-- 👨‍💻 All of my projects are available at [yeswadams.framer.wiki](yeswadams.framer.wiki)
-
-- 📝 I regularly write articles on [yeswadams.framer.wiki](yeswadams.framer.wiki)
 
 - 💬 Ask me about **React, Next.js, Svelte**
 
