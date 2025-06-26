@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning Solidity & Rust<br>🎯 Goals: Become a Web 3 Developer <br>🎲 Fun fact: Web3 is the Future</p>
+<p align="left">✨ Frontend Developer || UX Engineer<br>📚 I'm currently learning Solidity & Rust<br>🎯 Goals: Become a Web 3 Developer <br>🎲 Fun fact: Web3 is the Future</p>
 
 ###
 
