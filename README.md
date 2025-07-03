@@ -78,7 +78,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=yeswadams&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeswadams&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
@@ -87,12 +87,7 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31s2yaepxogm7t62scqk2ne2ts3e&unique={true|1|on|yes}"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yeswadams/yeswadams/output/snake.svg" alt="Snake animation" />
-
-###
+## 🛠️ What I Do 
+- Craft responsive and engaging web and mobile UIs. 
+- Transform ideas into scalable and maintainable products.
+- Always learning and exploring new technologies.
