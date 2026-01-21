@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ADAMS Y. || Frontend Developer</h1>
+  <h1>ADAMS Y. || <br/> Frontend Developer</h1>
 </div>
 
 ###
