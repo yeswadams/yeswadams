@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://pbs.twimg.com/media/GuNcLesWsAEHX4f.jpg"  />
+  <h1>ADAMS Y. || Frontend Developer</h1>
 </div>
 
 ###
