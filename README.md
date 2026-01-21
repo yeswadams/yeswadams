@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>ADAMS Y. || <br/> Frontend Developer</h1>
+  <h1>ADAMS Y. <br/> Frontend Developer</h1>
 </div>
 
 ###
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">My name is Adams and I'm a Software Developer, based in Nairobi, Kenya. I have speciality in Frontend Development using React and Next.js</p>
+<p align="left">I'm a Software Developer, based in Nairobi, Kenya. I have a speciality in Frontend Development using React and Next.js</p>
 
 ###
 
