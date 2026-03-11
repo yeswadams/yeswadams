@@ -10,11 +10,11 @@
 
 ###
 
-<h1 align="left">Hey 👋</h1>
+<h1 align="left">Hey 👋, Adam Here</h1>
 
 ###
 
-<p align="left">I'm a Software Developer, based in Nairobi, Kenya. I have a speciality in Frontend Development using React and Next.js</p>
+<!-- <p align="left">I'm a Software Developer, based in Nairobi, Kenya. I have a speciality in Frontend Development using React and Next.js</p>
 
 ###
 
@@ -90,4 +90,4 @@
 ## 🛠️ What I Do 
 - Craft responsive and engaging web and mobile UIs. 
 - Transform ideas into scalable and maintainable products.
-- Always learning and exploring new technologies.
+- Always learning and exploring new technologies. -->
