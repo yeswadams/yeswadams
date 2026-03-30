@@ -10,7 +10,7 @@
 
 ###
 
-<h1 align="left">Hey 👋, Adam Here</h1>
+<h3 align="center">Hey 👋, Adam Here</h1>
 
 ###
 
