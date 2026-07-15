@@ -1,11 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yeswadams/yeswadams/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yeswadams/yeswadams/main/light.svg">
-  <img alt="Adams - Software Engineer Profile Banner" src="https://raw.githubusercontent.com/yeswadams/yeswadams/main/light.svg" width="100%">
-</picture>
-
 <div align="center">
-  <h1>ADAMS Y. <br/>Software Engineer</h1>
+  Software Engineer</h1>
 </div>
 
 ###
