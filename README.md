@@ -1,6 +1,6 @@
 ### Software Engineer
 
-Software engineer with **3+ years of experience** building full-stack applications and Enterprise Software. I build fast, ship clean code, and care deeply about what I put my name on.
+Software engineer with 3+ years of experience building full-stack applications and Enterprise Software. I build fast, ship clean code, and care deeply about what I put my name on.
 
 Over the past few years, I've gone from writing individual components to architecting and shipping complete products, including founding and building a SaaS platform from zero to production as a solo developer.
 
@@ -8,15 +8,11 @@ I'm particularly interested in **financial technology** and look forward to cont
 
 Driven by curiosity and a commitment to continuous improvement, I'm always learning, building, and refining the craft of creating software that solves real-world problems.
 
----
-
 ## Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adams-yeswa/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://substack.com/@yeswadams)
 [![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/yeswadam)
-
----
 
 ## Tech Stack
 
@@ -39,8 +35,6 @@ Driven by curiosity and a commitment to continuous improvement, I'm always learn
 ![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
 
 ## GitHub Stats
 
