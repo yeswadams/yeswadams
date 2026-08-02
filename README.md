@@ -1,93 +1,50 @@
-<div align="center">
-  Software Engineer</h1>
-</div>
+### Software Engineer
 
-###
+Software engineer with **3+ years of experience** building **full-stack applications**, **enterprise SaaS**, and **developer tools**.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=yeswadams.yeswadams&"  />
-</div>
+I build fast, ship clean code, and care deeply about what I put my name on.
 
-###
+Over the past few years, I've gone from writing individual components to architecting and shipping complete products, including founding and building a SaaS platform from zero to production as a solo developer.
 
-<h3 align="center">Hey 👋, Adam Here</h1>
+I'm particularly interested in **financial technology** and look forward to contributing to the future of **Web2 payment systems** and **Web3 financial infrastructure**, especially solutions that expand financial access across emerging markets.
 
-###
+Driven by curiosity and a commitment to continuous improvement, I'm always learning, building, and refining the craft of creating software that solves real-world problems.
 
-<!-- <p align="left">I'm a Software Developer, based in Nairobi, Kenya. I have a speciality in Frontend Development using React and Next.js</p>
+---
 
-###
+## Socials
 
-<h2 align="left">About me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adams-yeswa/)
+[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/yeswadam)
+[![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://substack.com/@yeswadams)
 
-###
+---
 
-<p align="left">✨ Frontend Developer || UX Engineer<br>📚 I'm currently learning Solidity & Rust<br>🎯 Goals: Become a Web 3 Developer <br>🎲 Fun fact: Web3 is the Future</p>
+## Tech Stack
 
-###
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<h2 align="left">I code with</h2>
+---
 
-###
+## GitHub Stats
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-</div>
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api?username=yeswadams&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
 
-###
+  <img height="170" src="https://streak-stats.demolab.com?user=yeswadams&theme=dark&hide_border=true" />
+</p>
 
-<h2 align="left">Other tools:</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
-<h2 align="left">My Stacks:</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yeswadams&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dr[...]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeswadams&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" heig[...]
-</div>
-
-###
-
-<br clear="both">
-
-## 🛠️ What I Do 
-- Craft responsive and engaging web and mobile UIs. 
-- Transform ideas into scalable and maintainable products.
-- Always learning and exploring new technologies. -->
+<p align="center">
+  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yeswadams&theme=dark&hide_border=true&layout=compact&langs_count=8" />
+</p>
