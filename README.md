@@ -1,4 +1,4 @@
-### Software Engineer
+### Software Engineer & Web3 Enthusiast
 
 I have 3 years of experience building full-stack web and native mobile apps. I build fast, ship clean code, and care deeply about what I put my name on.
 
