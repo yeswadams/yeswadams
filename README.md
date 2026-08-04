@@ -1,6 +1,6 @@
 ### Software Engineer & Web3 Enthusiast
 
-I have 3 years of experience building full-stack web and native mobile apps. I build fast, ship clean code, and care deeply about what I put my name on.
+I have 3 years of professional experience building full-stack web and native mobile apps. I build fast, ship clean code, and care deeply about what I put my name on.
 
 Over the past few years, I've gone from writing individual components to architecting and shipping complete products, including founding and building a SaaS platform from zero to production as a solo developer.
 
