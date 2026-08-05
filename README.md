@@ -1,6 +1,10 @@
 ### Software Engineer & Web3 Enthusiast
 
-Hi, I am Adams, a Software Engineer from Nairobi, working on backend systems, developer tools, and products that are designed to last longer than today's tech trends. I care less about shipping features and more about engineering foundations that make future features almost inevitable.
+Hi, I am a Software Engineer from Nairobi, working on backend systems, developer tools, and products designed to outlast today's tech trends. I care less about shipping features and more about engineering foundations that make future features almost inevitable.
+
+I optimize for depth over breadth. Every project is an opportunity to understand how great software is engineered beneath the surface, from database design and backend architecture to deployment, observability, and performance. My long-term goal is to build systems that remain reliable, maintainable, and valuable long after they're shipped.
+
+Welcome to my world...
 
 ## Socials
 
