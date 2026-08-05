@@ -1,12 +1,6 @@
 ### Software Engineer & Web3 Enthusiast
 
-I have 3 years of professional experience building full-stack web and native mobile apps. I build fast, ship clean code, and care deeply about what I put my name on.
-
-Over the past few years, I've gone from writing individual components to architecting and shipping complete products, including founding and building a SaaS platform from zero to production as a solo developer.
-
-I'm particularly interested in **financial technology** and look forward to contributing to the future of **Web2 payment systems** and **Web3 financial infrastructure**, especially solutions that expand financial access across emerging markets.
-
-Driven by curiosity and a commitment to continuous improvement, I'm always learning, building, and refining the craft of creating software that solves real-world problems.
+Hi, I am Adams, a Software Engineer from Nairobi, working on backend systems, developer tools, and products that are designed to last longer than today's tech trends. I care less about shipping features and more about engineering foundations that make future features almost inevitable.
 
 ## Socials
 
