@@ -10,7 +10,7 @@ Welcome to my world...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adams-yeswa/)
 [![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=white)](https://substack.com/@yeswadams)
-[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/yeswadam)
+[![](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/yeswadam)
 
 ## Tech Stack
 
