@@ -35,10 +35,10 @@ Welcome to my world...
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=yeswadams&theme=dark&hide_border=true" />
+  <img height="170" src="https://yeswadams-githubstats.vercel.app?user=yeswadams&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=yeswadams&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yeswadams&theme=dark&hide_border=true&layout=compact&langs_count=8" />
+  <img height="170" src="https://yeswadams-githubstats.vercel.app/api?username=yeswadams&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://yeswadams-githubstats.vercel.app/api/top-langs/?username=yeswadams&theme=dark&hide_border=true&layout=compact&langs_count=8" />
 </p>
